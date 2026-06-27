@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-#### Utah
+## Utah
 
 **Persuasion and Political Communication, COMM 5200**
 - Terms: S2021, F2021, S2023
@@ -36,7 +36,7 @@ author_profile: true
 **Quant. Methods Special Topics: Research Design, COMM 7800** (Graduate)
 - Terms: S2022
 
-#### Exeter
+## Exeter
 
 **Digital Media and Politics, POL2087**
 - Terms: S2019

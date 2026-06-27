@@ -9,7 +9,7 @@ redirect_from:
 
 Ben Lyons  
 University of Utah | 255 Central Campus Dr #2400, Salt Lake City, UT 84112  
-[ben.lyons@utah.edu](mailto:ben.lyons@utah.edu) | [Google Scholar](https://scholar.google.com/citations?user=INSERT_ID) | [ORCID](https://orcid.org/0000-0001-7096-900X) | [Open Science Framework](https://osf.io/)
+[ben.lyons@utah.edu](mailto:ben.lyons@utah.edu) | [Google Scholar](https://scholar.google.com/citations?user=zrjvXogAAAAJ&hl=en) | [ORCID](http://orcid.org/0000-0001-7096-900X) | [Open Science Framework](https://osf.io/bt7gv/)
 
 Appointments
 ======
@@ -347,30 +347,3 @@ Ad hoc reviewing includes:
 * Cambridge Elements (Political Communication series)
 
 Publons top reviewers in Social Science [2019] (Top 1% in field)
-
-MEDIA COVERAGE AND CITATIONS
-======
-Selected coverage includes:
-* New York Times
-* Washington Post
-* NPR
-* CNN
-* Science
-* Nature
-* The Atlantic
-* Wall Street Journal
-* AARP
-* KFF
-* Health Day
-* El País
-* Forbes
-* PBS
-* Guardian US
-* Popular Science
-* The Dallas Morning News
-* Axios
-* Forbes
-* The Conversation
-* Reuters
-* Fox News
-* NBC News
