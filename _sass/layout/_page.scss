@@ -191,6 +191,81 @@
   }
 }
 
+.home-hero {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 2.5rem;
+  padding: 2rem 0;
+}
+
+.home-hero-copy {
+  max-width: 40rem;
+}
+
+.home-hero-role {
+  margin: 0 0 0.75rem;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--global-text-color-light);
+}
+
+.home-hero-copy h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.05;
+}
+
+.home-hero-copy p {
+  margin-bottom: 1.25rem;
+  max-width: 38rem;
+}
+
+.home-hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.home-hero-buttons .btn {
+  min-width: 11rem;
+}
+
+.home-hero-photo {
+  justify-self: end;
+}
+
+.home-hero-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: $border-radius;
+  box-shadow: 0 20px 50px rgba(#000, 0.12);
+}
+
+@media (max-width: 76.875em) {
+  .home-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .home-hero-photo {
+    justify-self: center;
+  }
+}
+
+@media (max-width: 48em) {
+  .home-hero {
+    gap: 1.5rem;
+    padding: 1.5rem 0;
+  }
+
+  .home-hero-copy p {
+    max-width: 100%;
+  }
+}
+
 /*
    Social sharing
    ========================================================================== */
